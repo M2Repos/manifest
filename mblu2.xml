@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="device/meizu/mblu2" name="M2Repos/android_device_meizu_mblu2" groups="mblu2" remote="github" revision="twrp-9.0" />
+	<project path="kernel/meizu/mblu2" name="M2Repos/android_kernel_meizu_mblu2" groups="mblu2" remote="github" revision="lineage-16.0" />
+</manifest>
